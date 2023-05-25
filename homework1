@@ -1,0 +1,15 @@
+Solana ecosystem
+
+1. How many validators are there currently ?
+Total validators - 3,369
+2. What is special about this block? https://explorer.solana.com/block/0/rewards
+This is a genesis block
+3. What is special about this address https://explorer.solana.com/address/1nc1nerator11111111111111111111111111111111
+Seems like this address is wrong since address consits of combination of letters and numbers.
+4. What is this transaction doing ? https://explorer.solana.com/tx/45pGoC4Rr3fJ1TKrsiRkhHRbdUeX7633XAGVec6XzVdpRbzQgHhe6ZC6Uq164MPWtiqMg7wCkC6Wy3jy2BqsDEKf
+Seems like this transactions is not confirmed because there is not timestamp and it shows that this kind of transaction does not exist.
+5. What is the largest account you can find ?
+The maximum size of every account is 10 megabytes and 32 bytes for the address.
+6. What advantages will the end user see when using Solana compared to other blockchains ?
+The main feature is proof of history, where each node can run its own clock without relying on a central clock.
+
